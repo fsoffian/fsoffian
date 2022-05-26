@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsoffian
 - 👀 I’m interested in swimming, rockclimbing and coding. Also, food science!
-- 🌱 I’m currently learning python, html css and js
+- 🌱 I’m currently learning python, html, css, js and mysql
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me no, you can't
 
